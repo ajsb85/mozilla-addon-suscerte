@@ -1,0 +1,13 @@
+{
+  "name": "suscerte-root-certificate",
+  "title": "SUSCERTE Root Certificate Importer",
+  "id": "{128fa420-e5e2-11e3-ac10-0800200c9a66}",
+  "description": "Add the SUSCERTE root for products based on the Mozilla Platform as trusted root certificate store",
+  "author": "Alexander Salas",
+  "contributors": ["Axel Díaz"],
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "homepage": "http://www.suscerte.gob.ve/"
+}
+
+
