@@ -1,6 +1,8 @@
 SUSCERTE
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/mozilla-addon-suscerte.svg)](https://greenkeeper.io/)
+
 SUSCERTE Root Certificate Importer
 
 
